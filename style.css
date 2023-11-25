@@ -1,24 +1,11 @@
-.tittle {
-    width: 1000px;
-    color: blue;
-    text-align: center;
-    background-color: red;
-}
-
-.list {
-    color: aqua;
-    text-align: center;
-    background-color: blue;
-}
-
-.Minceraft {
-    color: orange;
-}
-
-.Terraria {
-    color: orange;
-}
-
-.Roblox {
-    color: orange;
+.top-title{
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px dotted red;
+    background-color: green;
+    margin-bottom: 30px;
 }
